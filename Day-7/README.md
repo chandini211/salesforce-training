@@ -132,6 +132,6 @@ Successfully implemented the Trigger Handler Architecture and learned the founda
 
 # 👩‍💻 Author
 
-**VIJAYA LAKSHMI SEERAM**
+**Ganta chandini Priya**
 
 Salesforce Developer | Apex | SOQL | Lightning Web Components | Enterprise Application Development
