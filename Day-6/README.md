@@ -261,7 +261,7 @@ Detailed notes are available in:
 
 # 👩‍💻 Author
 
-## **VIJAYA LAKSHMI SEERAM**
+## * Ganta Chandini Priya*
 
 **Salesforce Developer | Apex | Lightning Web Components | SOQL | Enterprise Application Development**
 
