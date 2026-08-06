@@ -195,7 +195,7 @@ After completing this sprint, I can confidently answer questions related to:
 
 # 👩‍💻 Author
 
-**Vijaya Lakshmi Seeram**
+**Ganta Chandini Priya**
 
 Salesforce Developer Bootcamp Participant
 
